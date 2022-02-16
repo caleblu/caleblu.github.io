@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Computer Engineering of [Accountable System Lab](https://fairlyaccountable.org/) at Carnegie Mellon University. My advisor is Prof. [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/). My research focuses on interpretability and fairness of machine learning systems, especially deep-learning based natural language processing systems.
+I am a fifth-year PhD student in Computer Engineering of [Accountable System Lab](https://fairlyaccountable.org/) at Carnegie Mellon University. My advisor is Prof. [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/). My research focuses on interpretability and fairness of machine learning systems, especially deep-learning based natural language processing systems.
 
 _Contact: "kaiji" + "first letter of last name" + "@" + andrew.cmu.edu"_
 
